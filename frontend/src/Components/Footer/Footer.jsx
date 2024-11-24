@@ -29,8 +29,8 @@ const Footer = () => {
                 Get in Touch
             </h2>
             <ul>
-                <li>+91 7661057152</li>
-                <li>tarun_vaka@srmap.edu.in</li>
+                <li>+91 9347700462</li>
+                <li>pranaydeep_korada@srmap.edu.in</li>
             </ul>
 
         </div>
